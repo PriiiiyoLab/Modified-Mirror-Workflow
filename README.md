@@ -1,4 +1,4 @@
-# Priiiyo Mirror-Workflow
+# Priiiiyo Mirror-Workflow
 Join [Priiiyo Mirror ZonE](https://t.me/PriiiyoMirror)
 
 You can use [this repos](https://github.com/PriiiyoLab/Mirrorbot-Repos) as a template
