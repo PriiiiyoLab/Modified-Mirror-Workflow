@@ -1,7 +1,7 @@
 # Priiiiyo Mirror-Workflow
-Join [Priiiyo Mirror ZonE](https://t.me/PriiiyoMirror)
+Join [Priiiiyo Mirror ZonE](https://t.me/PriiiiyoMirror)
 
-You can use [this repos](https://github.com/PriiiyoLab/Mirrorbot-Repos) as a template
+You can use [this repos](https://github.com/PriiiiyoLab/Mirrorbot-Repos) as a template
 
 First setup everything then push to your private Repository
 
