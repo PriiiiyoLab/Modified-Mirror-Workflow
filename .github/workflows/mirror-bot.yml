@@ -13,7 +13,7 @@ env:
 
 jobs:
   # 1st Job for running bot 1
-  bot1:
+  bot-1:
     runs-on: ubuntu-latest
 
     steps:
